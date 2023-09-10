@@ -1,0 +1,33 @@
+.footer-container {
+  background-color: rgba(255, 162, 0, 0.636);
+}
+.dwarf-img {
+  height: 100px;
+  width: 100px;
+}
+.wine-img {
+  height: 32px;
+  width: 32px;
+}
+.footer-logo-column {
+  font-family: fantasy;
+}
+.footer-logo-row {
+  padding-bottom: 2rem;
+}
+.socials-div {
+  display: flex;
+  flex-direction: row;
+  padding-top: 2rem;
+}
+.socials-div img {
+  height: 24px;
+  width: 24px;
+}
+.copyright-text{
+  padding-top: 7rem;
+}
+a{
+  color: rgba(0, 0, 0, 0.916);
+  text-decoration: none;
+}
